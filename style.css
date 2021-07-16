@@ -110,7 +110,12 @@
   top: 73px;
 }
 
-.projectpageimage1,.projectpageimage2,.projectpageimage3,.projectpageimage4,.projectpageimage5,.projectpageimage6 {
+.projectpageimage1,
+.projectpageimage2,
+.projectpageimage3,
+.projectpageimage4,
+.projectpageimage5,
+.projectpageimage6 {
   background-size: cover;
   display: flex;
   width: 100%;
@@ -305,7 +310,8 @@
   color: #92dcdc;
 }
 
-.text1, .text3 {
+.text1,
+.text3 {
   position: absolute;
   left: 16px;
   padding-left: 10px;
@@ -353,7 +359,12 @@
   font-size: 20px;
 }
 
-.text115,.text5,.text25,.text35,.text45,.text55 {
+.text115,
+.text5,
+.text25,
+.text35,
+.text45,
+.text55 {
   border: solid 1px rgb(247, 247, 248);
   display: inline-block;
   position: relative;
@@ -396,7 +407,12 @@
   top: 314px;
 }
 
-.text115:hover,.text5:hover,.text25:hover,.text35:hover,.text45:hover,.text55:hover {
+.text115:hover,
+.text5:hover,
+.text25:hover,
+.text35:hover,
+.text45:hover,
+.text55:hover {
   border-width: 5px;
   border-color: blue;
 }
@@ -430,7 +446,10 @@
   letter-spacing: -0.01em;
 }
 
-.text12,.text13,.text14,.text15 { 
+.text12,
+.text13,
+.text14,
+.text15 {
   position: absolute;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
