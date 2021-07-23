@@ -798,7 +798,7 @@ textarea {
 }
 
 /* starting with responsive web design */
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 1000px) {
   .horizontal_line {
     border-left: 1px solid rgb(253, 252, 252);
     border-bottom: 1px solid rgb(223, 220, 220);
@@ -830,19 +830,23 @@ textarea {
 
   .ite1 {
     margin-left: -80px;
+    color: #1A2236;
   }
 
   .ite2 {
     text-decoration: none;
+    color: #1A2236;
   }
 
   .ite4 {
     margin-left: 20px;
     text-decoration: none;
+    color: #1A2236;
   }
 
   .ite5 {
     text-decoration: none;
+    color: #1A2236;
   }
 
   .textcontainer {
@@ -1379,6 +1383,7 @@ textarea {
     font-weight: 500;
     font-size: 18px;
     line-height: 27px;
+    text-decoration: none;
     color: #92dcdc;
   }
 
@@ -1540,19 +1545,23 @@ textarea {
   }
 
   .getmycv {
-    width: 96px;
-    height: 27px;
+    width: 250px;
+    height: 70px;
     font-weight: 500;
     font-size: 18px;
-    margin-left: 70px;
-    margin-top: 23px;
-    line-height: 27px;
+    margin-left: -445px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 473px;
+    line-height: 67px;
+    background-color: black;
   }
 
   .img4 {
     position: relative;
     margin-left: 180px;
-    top: -19px;
+    top: -263px;
+    left: 800px;
   }
 
   .newimg1_grid33 {
