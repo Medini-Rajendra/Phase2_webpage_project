@@ -208,11 +208,6 @@
   margin-top: 31px;
 }
 
-.projectpageimage2:hover {
-  transform: scale(0.7); /* Equal to scaleX(0.7) scaleY(0.7) */
-  background-color: blue;
-}
-
 .rectangle3 {
   width: 100%;
   height: 156px;
@@ -338,6 +333,11 @@
   width: 100%;
   height: 206px;
   border: 0.333333px solid rgba(235, 86, 86, 0.1);
+}
+
+.projectpageimage2:hover {
+  transform: scale(0.7); /* Equal to scaleX(0.7) scaleY(0.7) */
+  background-color: blue;
 }
 
 .About_section {
