@@ -821,6 +821,13 @@ textarea {
     line-height: 24px;
   }
 
+  .navigat_grid,
+  .navigat1_grid,
+  .navigat2_grid {
+    display: inline;
+    z-index: 1;
+  }
+
   .ite1 {
     margin-left: -80px;
   }
@@ -901,7 +908,7 @@ textarea {
     width: 175px;
     height: 175px;
     margin-top: 2px;
-    margin-left: 480px;
+    margin-left: 370px;
   }
 
   .projects-container {
@@ -1218,28 +1225,34 @@ textarea {
   .contact-form-name {
     width: 254px;
     height: 60px;
-    margin-top: 2px;
+    margin-top: 42px;
     margin-left: 362px;
   }
 
   .namelabel {
+    position: relative;
+    top: 29px;
+    left: 10px;
     width: 66px;
     font-size: 12px;
     line-height: 18px;
     color: #7d7c84;
     height: 18px;
-    margin-top: 70px;
-    margin-left: 360px;
+    margin-top: 10px;
+    margin-left: 390px;
   }
 
   .contact-form-email {
     width: 253px;
     height: 60px;
     margin-left: 655px;
-    margin-top: 4px;
+    margin-top: -59px;
   }
 
   .emaillabel {
+    position: relative;
+    top: 95px;
+    left: 40px;
     width: 64px;
     height: 18px;
     margin-top: -83px;
@@ -1250,12 +1263,15 @@ textarea {
   }
 
   .contact-form-message {
-    margin-top: 2px;
+    margin-top: 50px;
     margin-left: 360px;
     width: 552px;
   }
 
   .messagelabel {
+    position: relative;
+    top: 170px;
+    left: 40px;
     width: 140.83px;
     height: 18px;
     font-size: 12px;
@@ -1369,44 +1385,45 @@ textarea {
   .img12 {
     position: relative;
     margin-left: 260px;
+    margin-top: 42px;
     top: -69px;
     color: #92dcdc;
   }
 
   .img13 {
     position: relative;
-    left: 528px;
-    top: -65px;
+    left: 861px;
+    top: -130px;
   }
 
   .img14 {
     position: relative;
-    left: 484px;
-    top: -65px;
+    left: 849px;
+    top: -130px;
   }
 
   .img15 {
     position: relative;
-    left: 380px;
-    top: -65px;
+    left: 840px;
+    top: -130px;
   }
 
   .img16 {
     position: relative;
-    top: -65px;
-    left: 210px;
+    top: -130px;
+    left: 820px;
   }
 
   .img17 {
     position: relative;
-    top: -65px;
-    left: -12px;
+    top: -130px;
+    left: 805px;
   }
 
   .img18 {
     position: relative;
-    top: -83px;
-    left: 820px;
+    top: -130px;
+    left: 800px;
   }
 
   .text10 {
