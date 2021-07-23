@@ -335,6 +335,11 @@
   border: 0.333333px solid rgba(235, 86, 86, 0.1);
 }
 
+.projectpageimage2:hover {
+  transform: scale(0.7); /* Equal to scaleX(0.7) scaleY(0.7) */
+  background-color: blue;
+}
+
 .About_section {
   display: flex;
   flex-direction: column;
@@ -988,6 +993,11 @@ textarea {
     height: 558px;
     margin-top: 155px;
     margin-left: -380px;
+  }
+
+  .projectpageimage1:hover {
+    transform: scale(0.7); /* Equal to scaleX(0.7) scaleY(0.7) */
+    background-color: blue;
   }
 
   .projectpageimage2 {
