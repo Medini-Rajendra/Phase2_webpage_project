@@ -208,6 +208,11 @@
   margin-top: 31px;
 }
 
+.projectpageimage2:hover {
+  transform: scale(0.7); /* Equal to scaleX(0.7) scaleY(0.7) */
+  background-color: blue;
+}
+
 .rectangle3 {
   width: 100%;
   height: 156px;
@@ -988,6 +993,11 @@ textarea {
     height: 558px;
     margin-top: 155px;
     margin-left: -380px;
+  }
+
+  .projectpageimage1:hover {
+    transform: scale(0.7); /* Equal to scaleX(0.7) scaleY(0.7) */
+    background-color: blue;
   }
 
   .projectpageimage2 {
