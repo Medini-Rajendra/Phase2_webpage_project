@@ -11,14 +11,14 @@
 .defineimage {
   width: 111px;
   height: 74px;
-  background-image: url(left_topside_icon.svg);
+  background-image: url("images/left_topside_icon.svg");
 }
 
 .defineimage1 {
   width: 20px;
   height: 14px;
   margin-top: 20px;
-  background-image: url(ic_menu.svg);
+  background-image: url("images/ic_menu.svg");
 }
 
 .text1 {
@@ -69,7 +69,7 @@
 }
 
 .secondimagecontain {
-  background-image: url("image_geometry_2-1.svg");
+  background-image: url("images/image_geometry_2-1.svg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -93,7 +93,7 @@
 }
 
 .projectpageimage1 {
-  background: url("Rectangle_21.svg");
+  background: url("images/Rectangle_21.svg");
   background-repeat: no-repeat;
 }
 
@@ -203,7 +203,7 @@
 }
 
 .projectpageimage2 {
-  background: url("second_project.svg");
+  background: url("images/second_project.svg");
   background-repeat: no-repeat;
   margin-top: 31px;
 }
@@ -227,7 +227,7 @@
 }
 
 .projectpageimage3 {
-  background: url("thirdproject.svg");
+  background: url("images/thirdproject.svg");
   background-repeat: no-repeat;
   margin-top: 31px;
 }
@@ -251,7 +251,7 @@
 }
 
 .projectpageimage4 {
-  background: url("fourthproject.svg");
+  background: url("images/fourthproject.svg");
   background-repeat: no-repeat;
   margin-top: 31px;
 }
@@ -275,7 +275,7 @@
 }
 
 .projectpageimage5 {
-  background: url("fifthproject.svg");
+  background: url("images/fifthproject.svg");
   background-repeat: no-repeat;
   margin-top: 31px;
 }
@@ -299,7 +299,7 @@
 }
 
 .projectpageimage6 {
-  background: url("sixthproject.svg");
+  background: url("images/sixthproject.svg");
   background-repeat: no-repeat;
   margin-top: 31px;
 }
@@ -869,7 +869,7 @@ textarea {
   }
 
   .secondimagecontain {
-    background-image: url("large_image_desktop.png");
+    background-image: url("images/large_image_desktop.png");
     background-repeat: no-repeat;
     width: 702px;
     height: 877px;
@@ -912,7 +912,7 @@ textarea {
   }
 
   .imgdots {
-    background-image: url("image_dots.png");
+    background-image: url("images/image_dots.png");
     background-repeat: no-repeat;
     width: 175px;
     height: 175px;
@@ -979,7 +979,7 @@ textarea {
   }
 
   .imgdots1 {
-    background-image: url("image_dots.png");
+    background-image: url("images/image_dots.png");
     background-repeat: no-repeat;
     width: 160px;
     height: 160px;
@@ -988,7 +988,7 @@ textarea {
   }
 
   .projectpageimage1 {
-    background-image: url("first_project_image.svg");
+    background-image: url("images/first_project_image.svg");
     width: 870px;
     height: 558px;
     margin-top: 155px;
@@ -1001,7 +1001,7 @@ textarea {
   }
 
   .projectpageimage2 {
-    background-image: url("second_project.svg");
+    background-image: url("images/second_project.svg");
     margin-top: 32px;
     margin-left: -100px;
     width: 465px;
@@ -1031,7 +1031,7 @@ textarea {
   }
 
   .projectpageimage6 {
-    background: url("sixthproject.svg");
+    background: url("images/sixthproject.svg");
     background-repeat: no-repeat;
     margin-top: -15px;
     margin-left: 520px;
@@ -1448,7 +1448,7 @@ textarea {
 
   .img111_getstarted {
     margin-left: -8px;
-    margin-top: -128px;
+    margin-top: -135px;
     width: 160.38px;
     height: 175.42px;
   }
@@ -1470,7 +1470,7 @@ textarea {
     width: 363.06px;
     height: 150px;
     margin-left: -77px;
-    margin-top: 90px;
+    margin-top: 5px;
   }
 
   .newimg_grid1 {
