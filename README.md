@@ -2,13 +2,13 @@
 
 Website Development Project - 2nd Phase
 
-The goal of the project is to create a replica of a webpage given to us as assignment. 
+The Mobile Desktop project has been deployed using GithHub Pages.
 
 ![screenshot](./secondphaseproj.png)
 
 ## Built With
 
-- HTML, CSS
+- HTML, CSS, GitHub pages
 - WebHint, StyleLint packages are used to check for linter errors
 - Visual Studio
 
