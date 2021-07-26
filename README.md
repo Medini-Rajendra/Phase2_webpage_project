@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Website Development Project - 2nd Phase
+Deploy Mobile Desktop Page
 
 The Mobile Desktop project has been deployed using GithHub Pages.
 
-![screenshot](./secondphaseproj.png)
+![screenshot](./images/Mobile_desktop_image.png)
 
 ## Built With
 
