@@ -1251,18 +1251,25 @@ textarea {
     margin-top: 42px;
     margin-left: 362px;
   }
+  
+  input, label {
+    display: block;
+    float: left;
+  }
+
+  label {
+    margin-top: -30px;
+    font-size: 12px;
+  }
 
   .namelabel {
-    position: relative;
-    top: 29px;
-    left: 10px;
-    width: 66px;
+    display: block;
+    float: left;
     font-size: 12px;
     line-height: 18px;
     color: #7d7c84;
     height: 18px;
-    margin-top: 10px;
-    margin-left: 390px;
+    margin-top: -30px;
   }
 
   .contact-form-email {
