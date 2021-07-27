@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Deploy Mobile Desktop Page
+Using accessiblity syntaxes for the project
 
-The Mobile Desktop project has been deployed using GithHub Pages.
+Testing and validating accessiblity syntaxes
 
 ![screenshot](./images/Mobile_desktop_image.png)
 
@@ -27,6 +27,12 @@ Rajendra Medini
 - GitHub: [@Medini-Rajendra](https://github.com/Medini-Rajendra)
 - Twitter: [@invenire512](https://twitter.com/invenire512)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/medinichaitanya/)
+
+👤 **Author2**
+
+- GitHub: [@Obote](https://github.com/Obote)
+- Twitter: [@Obote_denis](https://twitter.com/Obote_denis)
+- LinkedIn: [Obote Denis](https://www.linkedin.com/in/obote-denis-9859a2a3/)
 
 ## 📝 License
 
