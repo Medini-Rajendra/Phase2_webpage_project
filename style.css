@@ -806,10 +806,6 @@ textarea {
 @media screen and (min-width: 1000px) {
   html,
   body {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
     overflow-x: hidden;
   }
 
@@ -926,7 +922,7 @@ textarea {
     width: 175px;
     height: 175px;
     margin-top: 2px;
-    margin-left: 473px;
+    margin-left: 370px;
   }
 
   .projects-container {
@@ -979,7 +975,7 @@ textarea {
   .text3 {
     margin: 0;
     margin-top: 298px;
-    margin-left: -5px;
+    margin-left: -115px;
     width: 398px;
     height: 110px;
     font-size: 110px;
@@ -993,7 +989,7 @@ textarea {
     width: 160px;
     height: 160px;
     margin-top: 160px;
-    margin-left: -120px;
+    margin-left: -160px;
   }
 
   .projectpageimage1 {
@@ -1012,31 +1008,31 @@ textarea {
   .projectpageimage2 {
     background-image: url("../images/second_project.svg");
     margin-top: 32px;
-    margin-left: 0;
+    margin-left: -100px;
     width: 465px;
     height: 270px;
     border: 1px solid rgba(255, 255, 255, 0.1);
   }
 
   .projectpageimage3 {
-    width: 800px;
+    width: 750px;
     height: 465px;
-    margin-top: -211px;
-    margin-left: -8px;
+    margin-top: -209px;
+    margin-left: -60px;
   }
 
   .projectpageimage4 {
     width: 465px;
     height: 270px;
-    margin-top: -3px;
-    margin-left: -22.7px;
+    margin-top: -5px;
+    margin-left: -23px;
   }
 
   .projectpageimage5 {
     width: 415px;
     height: 270px;
-    margin-left: -523px;
-    margin-top: 240px;
+    margin-left: -521px;
+    margin-top: 239px;
   }
 
   .projectpageimage6 {
@@ -1308,11 +1304,11 @@ textarea {
     width: 350.75px;
     height: 280.84px;
     margin-top: -100px;
-    margin-left: 1032px;
+    margin-left: 939px;
   }
 
   .footer_rect {
-    width: 1440px;
+    width: 1250px;
     height: 123px;
     background: #1a2236;
   }
@@ -1416,44 +1412,41 @@ textarea {
 
   .img13 {
     position: relative;
-    left: 950px;
+    left: 861px;
     top: -130px;
   }
 
   .img14 {
     position: relative;
-    left: 940px;
+    left: 849px;
     top: -130px;
   }
 
   .img15 {
     position: relative;
-    left: 930px;
+    left: 840px;
     top: -130px;
   }
 
   .img16 {
     position: relative;
     top: -130px;
-    left: 920px;
+    left: 820px;
   }
 
   .img17 {
     position: relative;
     top: -130px;
-    left: 910px;
+    left: 805px;
   }
 
   .img18 {
     position: relative;
     top: -130px;
-    left: 900px;
+    left: 800px;
   }
 
   .text10 {
-    width: 548px;
-    font-size: 110px;
-    line-height: 100%;
     margin-top: -170px;
     margin-left: 400px;
   }
@@ -1533,21 +1526,21 @@ textarea {
     width: 124.04px;
     height: 124.04px;
     margin-left: -7px;
-    margin-top: 0;
+    margin-top: -3px;
   }
 
   .newimg1_grid3 {
     width: 87.69px;
     height: 87.71px;
-    margin-left: 588px;
-    margin-top: 0;
+    margin-left: 487px;
+    margin-top: -3px;
   }
 
   .newimg2_grid3 {
     width: 87.69px;
     height: 87.71px;
-    margin-left: -678px;
-    margin-top: 35px;
+    margin-left: -577px;
+    margin-top: 33px;
   }
 
   .newimg_grid33 {
@@ -1555,7 +1548,7 @@ textarea {
     width: 130px;
     height: 160px;
     margin-top: 620px;
-    margin-left: -290px;
+    margin-left: -205px;
   }
 
   .rectangle14_grid33 {
@@ -1567,12 +1560,10 @@ textarea {
   }
 
   .getmycv {
-    box-sizing: border-box;
     width: 250px;
     height: 70px;
     font-weight: 500;
     font-size: 18px;
-    padding-left: -25px;
     margin-left: -445px;
     text-align: center;
     text-decoration: none;
@@ -1593,7 +1584,7 @@ textarea {
     width: 62.02px;
     height: 62.02px;
     margin-top: 572px;
-    margin-left: -256px;
+    margin-left: -76px;
   }
 
   .abouttext {
@@ -1602,7 +1593,7 @@ textarea {
     font-size: 110px;
     line-height: 100%;
     margin-top: 115px;
-    margin-left: -200px;
+    margin-left: 80px;
   }
 
   .aboutpara {
