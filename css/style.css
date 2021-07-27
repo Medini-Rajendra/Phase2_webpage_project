@@ -804,14 +804,14 @@ textarea {
 
 /* starting with responsive web design */
 @media screen and (min-width: 1000px) {
-  html,
   body {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
+    /* width: 100%; */
+    max-width: 1440px;
+    height: 100px;
+    font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
   }
+  
 
   .horizontal_line {
     border-left: 1px solid rgb(253, 252, 252);
