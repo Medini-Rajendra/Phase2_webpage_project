@@ -804,7 +804,8 @@ textarea {
 
 /* starting with responsive web design */
 @media screen and (min-width: 1000px) {
-  html, body {
+  html,
+  body {
     overflow-x: hidden;
   }
 
