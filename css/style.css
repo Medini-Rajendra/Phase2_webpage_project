@@ -811,7 +811,7 @@ textarea {
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
   }
-  
+
 
   .horizontal_line {
     border-left: 1px solid rgb(253, 252, 252);
@@ -1251,8 +1251,9 @@ textarea {
     margin-top: 42px;
     margin-left: 362px;
   }
-  
-  input, label {
+
+  input,
+  label {
     display: block;
     float: left;
   }
