@@ -602,6 +602,11 @@
   height: 20px;
 }
 
+.box1-disp {
+  float: right;
+  padding: 4px 10px 0;
+}
+
 .box1 {
   position: relative;
   width: 69px;
